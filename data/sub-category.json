@@ -1,0 +1,130 @@
+[
+    {
+        "id":1,
+        "category":"Fashion",
+        "sub-category":"Shirt"
+    },
+    {
+        "id":2,
+        "category":"Fashion",
+        "sub-category":"T-shirt"
+    },
+    {
+        "id":3,
+        "category":"Fashion",
+        "sub-category":"Pant"
+    },
+    {
+        "id":4,
+        "category":"Fashion",
+        "sub-category":"Jeans"
+    },
+    {
+        "id":5,
+        "category":"Fashion",
+        "sub-category":"Shoes"
+    },
+    {
+        "id":6,
+        "category":"Electronics",
+        "sub-category":"Mobiles"
+    },
+    {
+        "id":7,
+        "category":"Electronics",
+        "sub-category":"Laptops"
+    },
+    {
+        "id":8,
+        "category":"Electronics",
+        "sub-category":"Smart television"
+    },
+    {
+        "id":9,
+        "category":"Electronics",
+        "sub-category":"Cameras"
+    },
+    {
+        "id":10,
+        "category":"Electronics",
+        "sub-category":"Electronics Accessories"
+    },
+    {
+        "id":11,
+        "category":"Beauty & Personal care",
+        "sub-category":"Face wash"
+    },
+    {
+        "id":12,
+        "category":"Beauty & Personal care",
+        "sub-category":"Face wash"
+    },
+    {
+        "id":13,
+        "category":"Beauty & Personal care",
+        "sub-category":"Soap"
+    },
+    {
+        "id":14,
+        "category":"Beauty & Personal care",
+        "sub-category":"Cream"
+    },
+    {
+        "id":15,
+        "category":"Beauty & Personal care",
+        "sub-category":"Perfume"
+    },
+    {
+        "id":16,
+        "category":"Home",
+        "sub-category":"Living Room"
+    },
+    {
+        "id":17,
+        "category":"Home",
+        "sub-category":"Kitchen & Dining"
+    },
+    {
+        "id":18,
+        "category":"Home",
+        "sub-category":"Bedroom room"
+    },
+    {
+        "id":19,
+        "category":"Home",
+        "sub-category":"Tools & Utility"
+    },
+    {
+        "id":20,
+        "category":"Home",
+        "sub-category":"Cleaing & bath"
+    },
+    {
+        "id":21,
+        "category":"Appliances",
+        "sub-category":"Washing Machine"
+    },
+    {
+        "id":22,
+        "category":"Appliances",
+        "sub-category":"Air Conditioner"
+    },
+    {
+        "id":23,
+        "category":"Appliances",
+        "sub-category":"Refrigerators"
+    },
+    {
+        "id":24,
+        "category":"Appliances",
+        "sub-category":"Kitchen Appliances"
+    },
+    {
+        "id":25,
+        "category":"Appliances",
+        "sub-category":"Home Appliances"
+    }
+    
+    
+
+]
