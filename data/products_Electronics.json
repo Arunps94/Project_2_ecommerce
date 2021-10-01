@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "product_name": "OnePlus Nord CE 5G",
+        "category": "Electronics",
+        "sub-category": "Mobiles",
+        "category_id": 2,
+        "sub_category_id": 6,
+        "Price": 25000,
+        "Ram": "8GB",
+        "Stroage":"128GB",
+        "Image": "https://m.media-amazon.com/images/I/61PDbUd1VaL._AC_UY327_FMwebp_QL65_.jpg",
+        "Color": "Charcoal Ink",
+        "Brand": "OnePluse"
+    },
+    {
+        "id": 2,
+        "product_name": "Apple iPhone 13 Mini (128GB)",
+        "category": "Electronics",
+        "sub-category": "Mobiles",
+        "category_id": 2,
+        "sub_category_id": 6,
+        "Price": 65000,
+        "Ram": "6GB",
+        "Stroage":"128GB",
+        "Image": "https://m.media-amazon.com/images/I/71X6mnUDSzL._SL1500_.jpg",
+        "Color": "Blue",
+        "Brand": "Apple"
+    },
+    {
+        "id": 3,
+        "product_name": "Apple iPhone 13 Mini (128GB)",
+        "category": "Electronics",
+        "sub-category": "Mobiles",
+        "category_id": 2,
+        "sub_category_id": 6,
+        "Price": 65000,
+        "Ram": "6GB",
+        "Stroage":"128GB",
+        "Image": "https://m.media-amazon.com/images/I/71X6mnUDSzL._SL1500_.jpg",
+        "Color": "Blue",
+        "Brand": "Apple"
+    },
+    {
+        "id": 4,
+        "product_name": "MSI GF75 Thin",
+        "category": "Electronics",
+        "sub-category": "Laptops",
+        "category_id": 2,
+        "sub_category_id": 7,
+        "Price": 65000,
+        "Processor": "Intel i5-10500H",
+        "Stroage & Ram":"512GB / 8GB",
+        "Image": "https://m.media-amazon.com/images/I/81DR+J7JxkL._SL1500_.jpg",
+        "Color": "Black",
+        "Brand": "MSI"
+    },
+    {
+        "id": 5,
+        "product_name": "Apple MacBook Air",
+        "category": "Electronics",
+        "sub-category": "Laptops",
+        "category_id": 2,
+        "sub_category_id": 7,
+        "Price": 95000,
+        "Processor": "Apple M1 chip with 8-core CPU and 7-core GPU",
+        "Stroage & Ram":"250GB / 8GB",
+        "Image": "https://m.media-amazon.com/images/I/71jG+e7roXL._SL1500_.jpg",
+        "Color": "Space Gray",
+        "Brand": "Apple"
+    },
+    {
+        "id": 6,
+        "product_name": "Samsung Wondertainment Series HD",
+        "category": "Electronics",
+        "sub-category": "Smart TV",
+        "category_id": 2,
+        "sub_category_id": 7,
+        "Price": 22000,
+        "Size": "80 cm (32 Inches) ",
+        "Image": "https://m.media-amazon.com/images/I/71fEd9glTIL._SL1500_.jpg",
+        "Color": "Glossy Black",
+        "Brand": "Samsung"
+    },
+    {
+        "id": 7,
+        "product_name": "AmazonBasics 4K Ultra HD Smart LED Fire TV",
+        "category": "Electronics",
+        "sub-category": "Smart TV",
+        "category_id": 2,
+        "sub_category_id": 7,
+        "Price": 45000,
+        "Size": "139cm (55 inch)",
+        "Image": "https://m.media-amazon.com/images/I/71AqQyCMmeL._SL1240_.jpg",
+        "Color": "Black",
+        "Brand": "Amazon"
+    },
+    {
+        "id": 8,
+        "product_name": "AmazonBasics 4K Ultra HD Smart LED Fire TV",
+        "category": "Electronics",
+        "sub-category": "Smart TV",
+        "category_id": 2,
+        "sub_category_id": 7,
+        "Price": 45000,
+        "Size": "139cm (55 inch)",
+        "Image": "https://m.media-amazon.com/images/I/71AqQyCMmeL._SL1240_.jpg",
+        "Color": "Black",
+        "Brand": "Amazon"
+    }
+    
+    
+]

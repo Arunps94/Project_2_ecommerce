@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
+      crossorigin="anonymous"
+    ></script>
+    <title>Dashboard</title>
+  </head>
+  <body>
+    <div class="container">
+      <hr />
+
+      <div class="card">
+        <div class="card-header"><h2>Product Form</h2></div>
+        <div class="card-body">
+          <h5 class="card-title">Product Data</h5>
+          <form action="http://localhost:8500/product" method="POST">
+            <div class="row g-2 mt-3">
+              <div class="form-floating col-md">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="floatingInput"
+                  placeholder="Product id"
+                  name="id"
+                />
+                <label for="floatingInput">Product id</label>
+              </div>
+              <div class="form-floating col-md">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="floatingInput"
+                  placeholder="Product name"
+                  name="Product_name"
+                />
+                <label for="floatingInput">Product name</label>
+              </div>
+            </div>
+            <div class="row g-2 mt-3">
+              <div class="col-md">
+                <div class="form-floating">
+                  <select
+                    class="form-select"
+                    id="floatingSelectGrid"
+                    aria-label="Floating label select example"
+                    name="Product_category"
+                  >
+                    <option selected>Category</option>
+                    <option value="Fasion">Fasion</option>
+                    <option value="Electronics">Electronics</option>
+                    <option value="Beauty & Personal care">
+                      Beauty & Personal care
+                    </option>
+                    <option value="Home">Home</option>
+                    <option value="Appliances">Appliances</option>
+                  </select>
+                  <label for="floatingSelectGrid">Select a category</label>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="form-floating">
+                  <select
+                    class="form-select"
+                    id="floatingSelectGrid"
+                    aria-label="Floating label select example"
+                    name="Product_subcategory"
+                  >
+                    <option selected>Sub-Category</option>
+                    <option value="Shirt">Shirt</option>
+                    <option value="T-shirt">T-shirt</option>
+                    <option value="Pant">Pant</option>
+                    <option value="Jeans">Jeans</option>
+                    <option value="Shoes">Shoes</option>
+                    <option value="Mobiles">Mobiles</option>
+                    <option value="Laptops">Laptops</option>
+                    <option value="Smart television">Smart television</option>
+                    <option value="Cameras">Cameras</option>
+                    <option value="Electronics Accessories">
+                      Electronics Accessories
+                    </option>
+                    <option value="Face Wash">Face Wash</option>
+                    <option value="Shampoo">Shampoo</option>
+                    <option value="Soap">Soap</option>
+                    <option value="Cream">Cream</option>
+                    <option value="Perfume">Perfume</option>
+                    <option value="Living Room">Living Room</option>
+                    <option value="Kitchen & Dining">Kitchen & Dining</option>
+                    <option value="Bedroom room">Bedroom room</option>
+                    <option value="Tools & Utility">Tools & Utility</option>
+                    <option value="Cleaing & bath">Cleaing & bath</option>
+                    <option value="Washing Machine">Washing Machine</option>
+                    <option value="Air Conditioner">Air Conditioner</option>
+                    <option value="Refrigerators">Refrigerators</option>
+                    <option value="Kitchen Appliances">
+                      Kitchen Appliances
+                    </option>
+                    <option value="Home Appliances">Home Appliances</option>
+                  </select>
+                  <label for="floatingSelectGrid">Select a sub-category</label>
+                </div>
+              </div>
+            </div>
+            <div class="row g-2 mt-3">
+              <div class="form-floating col-md">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="floatingInput"
+                  placeholder="Product Price"
+                  name="Product_price"
+                />
+                <label for="floatingInput">Product Price</label>
+              </div>
+              <div class="form-floating col-md">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="floatingInput"
+                  placeholder="Product Image URL"
+                  name="Product_image(URL)"
+                />
+                <label for="floatingInput">Product Image URL</label>
+              </div>
+            </div>
+            <div class="row g-2 mt-2">
+              <div class="form-floating col-md">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="floatingInput"
+                  placeholder="Product Brand"
+                  name="Product_brand"
+                />
+                <label for="floatingInput">Product Brand</label>
+              </div>
+              <div class="form-floating col-md">
+                <input
+                  type="text"
+                  class="form-control"
+                  id="floatingInput"
+                  placeholder="Product Color"
+                  name="Product_color"
+                />
+                <label for="floatingInput">Product Color</label>
+              </div>
+            </div>
+            <button type="submit" class="btn btn-success mt-3">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
