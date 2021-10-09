@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+}
+.box {
+  background-image: url('https://rukminim1.flixcart.com/flap/278/278/image/a7e9892910b4592f.jpg?q=90');
+  background-position: 0px bottom;
+  width: 230px;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 28px 10px 124px;
+}
+
+.all {
+  width: 50%;
+  font-size: 13px;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%);
+  display: inline-block;
+  margin-left: 25%;
+  font-weight: 500;
+  outline: none;
+  padding: 10px 20px;
+}
